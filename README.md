@@ -47,8 +47,32 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+
+
+![Screenshot (2)](https://github.com/user-attachments/assets/ac3cd478-6815-468b-925a-9a696de5e151)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Screenshot (1)](https://github.com/user-attachments/assets/da3c9ec7-f7f6-4756-ad28-f46adb89f43b)
+
+### Name: JEYAPRIYA J
+### Register Number: 212224100027
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
